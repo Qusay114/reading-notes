@@ -5,7 +5,7 @@ and I have a little experience in programming .** "
 
 # Table of contents:
 * https://qusay114.github.io/reading-notes/VCS
-
+* https://qusay114.github.io/reading-notes/Mindset_Growth
 
 
 
