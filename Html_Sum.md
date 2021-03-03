@@ -3,7 +3,7 @@
 Html layout is the way of how your web page will look like , web developer usually create
 a wireframe to help them to design their web pages before starting to code .
 wireframe usually contains the header  , main  and the footer .the developers divide their codes using elements which make it easier to code and remember
-* some examples on these elements :
+Some examples on these elements :
 * Navigation  		and its tag <nav> </nav>
 * Articles    		and its tag <article> </article>
 * Asides 	    		and its tag <aside> </aside>
@@ -14,7 +14,7 @@ wireframe usually contains the header  , main  and the footer .the developers di
 # Html versions
 As we know there is a different versions of HTML  and they are HTML5, HTML4, Transitional XHTML 1.0, Strict XHTML 1.0 and XML Declaration
 and every version has a different way to indicate it ,
-* Examples:
+Examples:
 * HTML5     		<!DOCTYPE html>
 * HTML4     		<!DOCTYPE html PUBLIC"-//W3C//DTD HTML 4.01Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 * XML Declaration   	<?xml version="1.0" ?>
@@ -49,8 +49,7 @@ content="Fri, 04 Apr 2014 23:59:59 GMT" />
 </head>
 
 # Html characters
-We can add characters such as angled brackets and copyright
-* symbols ,some examples :
+We can add characters such as angled brackets and copyright symbols ,Some examples :
 * <			&lt; 
 * &			&amp;
 * copyright symbol	&copy;
