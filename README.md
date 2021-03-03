@@ -6,7 +6,8 @@ and I have a little experience in programming .** "
 # Table of contents:
 * [version control system](https://qusay114.github.io/reading-notes/VCS)
 * [Mindset Growth](https://qusay114.github.io/reading-notes/Mindset_Growth)
-* [summary](https://qusay114.github.io/reading-notes/summary)
+* [Summary1](https://qusay114.github.io/reading-notes/summary)
+* [Html Summary](https://qusay114.github.io/reading-notes/Html_Sum)
 
 
 
