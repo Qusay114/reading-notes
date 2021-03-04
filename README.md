@@ -7,7 +7,8 @@ and I have a little experience in programming .** "
 * [version control system](https://qusay114.github.io/reading-notes/VCS)
 * [Mindset Growth](https://qusay114.github.io/reading-notes/Mindset_Growth)
 * [Summary1](https://qusay114.github.io/reading-notes/summary)
-* [Html Summary](https://qusay114.github.io/reading-notes/Html_Sum)
+* [Html Summary 1](https://qusay114.github.io/reading-notes/Html_Sum)
+* [JavaScript summary 1](https://qusay114.github.io/reading-notes/JS_summary1)
 
 
 
