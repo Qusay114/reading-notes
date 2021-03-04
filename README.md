@@ -9,7 +9,7 @@ and I have a little experience in programming .** "
 * [Summary1](https://qusay114.github.io/reading-notes/summary)
 * [Html Summary 1](https://qusay114.github.io/reading-notes/Html_Sum)
 * [JavaScript summary 1](https://qusay114.github.io/reading-notes/JS_summary1)
-
+* [How computers work ?](https://qusay114.github.io/reading-notes/Computers)
 
 
 my profile on Github [Click here](https://github.com/Qusay114)
