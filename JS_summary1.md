@@ -1,4 +1,4 @@
-# Modify Html content usign JS
+# Modify Html content using JS
 In order to make our web pages more interactive , 
 we use JavaScript language it allows us to access and modify the markup codes we used in the web page and that access and modifying it happens in according the actions that the user did in the browser 
 such as clicking on a button , filling text boxes or hovers on a link . When an action happens we can access a specific elements by using the id attribute and modify our codes such as adding a paragraph of text after a specific element , change the value of class attributes to tigger new CSS rules for those elements 
