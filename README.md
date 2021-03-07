@@ -10,6 +10,7 @@ and I have a little experience in programming .** "
 * [Html Summary 1](https://qusay114.github.io/reading-notes/Html_Sum)
 * [JavaScript summary 1](https://qusay114.github.io/reading-notes/JS_summary1)
 * [How computers work ?](https://qusay114.github.io/reading-notes/Computers)
+* [JavaScript summary 1](https://qusay114.github.io/reading-notes/JS_summary2)
 
 
 my profile on Github [Click here](https://github.com/Qusay114)
