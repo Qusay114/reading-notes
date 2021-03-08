@@ -12,6 +12,7 @@ and I have a little experience in programming .** "
 * [How computers work ?](https://qusay114.github.io/reading-notes/Computers)
 * [JavaScript summary 2](https://qusay114.github.io/reading-notes/JS_summary2)
 * [Loop summary](https://qusay114.github.io/reading-notes/loop_summary)
+* [CSS summary 1](https://qusay114.github.io/reading-notes/CSS_Summary1)
 
 
 
