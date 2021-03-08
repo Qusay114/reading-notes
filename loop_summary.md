@@ -23,6 +23,7 @@ for(var i =0; i<7; i++)
 
 we can do it using another loop statement:
 Example:
+
 var j = 0;
 var i = 0;
 while(j<7)
