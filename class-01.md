@@ -44,34 +44,35 @@ to users.
 
 To describe the structure of a web page, we add code to the words we want
 to appear on the page.
-Example(here the code is between the tags <> and the rest is the content ):
+Example(here the code is between the tags <> and the rest is the content )   
 
-<html>
-<body>
-<h1>This is the Main Heading</h1>
-<p>This text might be an introduction to the rest of
-the page. And if the page is a long one it might
-be split up into several sub-headings.<p>
-<h2>This is a Sub-Heading</h2>
-<p>Many long articles have sub-headings so to help
-you follow the structure of what is being written.
-There may even be sub-sub-headings (or lower-level
-headings).</p>
-<h2>Another Sub-Heading</h2>
-<p>Here you can see another sub-heading.</p>
-</body>
-</html>
+	<html>
+		<body>
+			<h1>This is the Main Heading</h1>
+			<p>This text might be an introduction to the rest of
+			the page. And if the page is a long one it might
+			be split up into several sub-headings.<p>
+			<h2>This is a Sub-Heading</h2>
+			<p>Many long articles have sub-headings so to help
+			you follow the structure of what is being written.
+			There may even be sub-sub-headings (or lower-level
+			headings).</p>
+			<h2>Another Sub-Heading</h2>
+			<p>Here you can see another sub-heading.</p>
+		</body>
+	</html>
 
 
 HTML uses the elements to describe the structure of the pages.
 here is the main elements:
-<html>
-	<head>
-	</head>
+	
+	<html>
+		<head>
+		</head>
 
-	<body>
-	</body>
-</html>
+		<body>
+		</body>
+	</html>
 
 
 # HTML versions:
