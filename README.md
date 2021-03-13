@@ -1,18 +1,41 @@
 
 ''  **I'm Qusay Al-Amarat from Jordan, I'm Electrical Engineer,
 I have studied in The University of Jordan 
-and I have a little experience in programming .** "
+and my dream is to become a great programmer someday .** "
 
-# Table of contents:
-* [version control system](https://qusay114.github.io/reading-notes/VCS)
-* [Mindset Growth](https://qusay114.github.io/reading-notes/Mindset_Growth)
-* [Summary1](https://qusay114.github.io/reading-notes/summary)
-* [Html Summary 1](https://qusay114.github.io/reading-notes/Html_Sum)
-* [JavaScript summary 1](https://qusay114.github.io/reading-notes/JS_summary1)
-* [How computers work ?](https://qusay114.github.io/reading-notes/Computers)
-* [JavaScript summary 2](https://qusay114.github.io/reading-notes/JS_summary2)
-* [Loop summary](https://qusay114.github.io/reading-notes/loop_summary)
-* [CSS summary 1](https://qusay114.github.io/reading-notes/CSS_Summary1)
+# Code 102 Reading Notes
+
+### Table of contents:
+1. [version control system](https://qusay114.github.io/reading-notes/VCS)
+2. [Mindset Growth](https://qusay114.github.io/reading-notes/Mindset_Growth)
+3. [Summary1](https://qusay114.github.io/reading-notes/summary)
+4. [Html Summary 1](https://qusay114.github.io/reading-notes/Html_Sum)
+5. [JavaScript summary 1](https://qusay114.github.io/reading-notes/JS_summary1)
+6. [How computers work ?](https://qusay114.github.io/reading-notes/Computers)
+7. [JavaScript summary 2](https://qusay114.github.io/reading-notes/JS_summary2)
+8. [Loop summary](https://qusay114.github.io/reading-notes/loop_summary)
+9. [CSS summary 1](https://qusay114.github.io/reading-notes/CSS_Summary1)
+
+
+# Code 201 Reading Notes
+
+### Table of contents:
+1. Assigment 1
+2. Assigment 2
+3. Assigment 3
+4. Assigment 4
+5. Assigment 5
+6. Assigment 6
+7. Assigment 7
+8. Assigment 8
+9. Assigment 9
+10. Assigment 10
+11. Assigment 11
+12. Assigment 12
+13. Assigment 13
+14. Assigment 14
+15. Assigment 15
+
 
 
 
