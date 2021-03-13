@@ -5,7 +5,6 @@ hosting that site could be anywhere in the
 world. In order for you to find the location of
 the web server, your browser will first connect
 to a Domain Name System (DNS) server.
-
 When you connect to the web,
 you do so via an Internet Service
 Provider (ISP). You type a
@@ -37,7 +36,6 @@ computer that is constantly
 connected to the web, and is set
 up especially to send web pages
 to users.
-
 
 
 # The Structure of The Web Page:
@@ -76,6 +74,7 @@ here is the main elements:
 
 
 # HTML versions:
+
 As we know there is a different versions of HTML and they are HTML5, HTML4, Transitional XHTML 1.0, Strict XHTML 1.0 and XML Declaration and every version has a different way to indicate it , Examples:
 
 * HTML5
@@ -83,15 +82,17 @@ As we know there is a different versions of HTML and they are HTML5, HTML4, Tran
 * XML Declaration
 
 # HTML elements:
+
 There is Global attributes which are attributes that can be used on any element , including the class and id attributes. An example on how to embed a page within a page using iframes :
 
-<iframe width="450" height="350" src="http://maps.google.co.uk/maps?q=moma+new+york &output=embed"> </iframe>
+	<iframe width="450" height="350" src="http://maps.google.co.uk/maps?q=moma+new+york &output=embed"> </iframe>
+	
 An example on How to add information about the web page using the element :
 
-<title>Information About Your Pages</title>
-
+	<title>Information About Your Pages</title>
 
 # HTML Layout:
+
 Html layout is the way of how your web page will look like , web developer usually create a wireframe to help them to design their web pages before starting to code . wireframe usually contains the header , main and the footer .the developers divide their codes using elements which make it easier to code and remember Some examples on these elements :
 
 * Navigation and its tag
@@ -101,6 +102,7 @@ Html layout is the way of how your web page will look like , web developer usual
 * Heading Groups and its tag
 
 # Process and Design:
+
 * It's important to understand w XX ho your target audience
 is, why they would come to your site, what information
 they want to find and when they are likely to return.
@@ -114,7 +116,8 @@ using size, color, and style.
 * You can use grouping and similarity to help simplify
 the information you present.
 
-# Script 
+# Script :
+
 As for people to be able to do a new skill they learned they will need a series of instructions to guide them to do task, and in order to make the computer do a specific task we write something called the script which is a series of instructions . we can write a script by breaking the task into smaller steps: 
 1: DEFINE THE GOAL : before we start to write the script we need to define the task we want to acheive . 
 2: DESIGN THE SCRIPT: we split the main task into a series of smaller tasks and we can represent that by using a flowchart,then we can write the necessary setps for each individual task 
