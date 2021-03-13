@@ -20,7 +20,7 @@ and my dream is to become a great programmer someday .** "
 # Code 201 Reading Notes
 
 ### Table of contents:
-1. Assigment 1
+1. [class-01](https://qusay114.github.io/reading-notes/class-01)
 2. Assigment 2
 3. Assigment 3
 4. Assigment 4
