@@ -2,17 +2,17 @@
 There many ways to include our text content inside the html code such as :
 * Heading tags:
 	there is 6 types of headings where is the difference between each of them is the size :
-                    <h1> The largest size </h1>  . . . <h6>the smallest size </h6>
+    ```<h1> The largest size </h1>  . . . <h6>the smallest size </h6>```
 
 * Paragraphs :
 	we can write our texts inside the paragraph tag :
-		<p> here we can write our paragraph </p>
+	```<p> here we can write our paragraph </p>```
 
 there is many font weights that we can make our text look like such as :
 * Bold  	we can assign it using this attribute: font-weight:bold;
 * Italic 	we can assign it using this attribute : font-weight:italic;
 * Emphasis 	we can assign it by putting the text inside em tags such as :	
-                <em>here we put the text</em>
+    ```<em>here we put the text</em>```
 
 
 # Introduce you to how CSS works:
@@ -51,7 +51,9 @@ parts: a property and a value, separated by a colon. You can specify
 several properties in one declaration, each separated by a semi-colon.
 
 Example:
+
 h1, h2, h3 
+
 {
 font-family: Arial;		-->font-family is a property , Arial is a value
 color: yellow;
@@ -59,7 +61,9 @@ color: yellow;
 
 # Internal CSS style
 We can write the style in our html file inside the head tag using style tag
+
 Example:
+
                 <style>
                 body
                 {
@@ -154,6 +158,7 @@ need any new tools to write a script. This example adds a greeting into an
 HTML page. The greeting changes depending on the time of day
 
 * Example:
+
             var today= new Date();
             var hourNow = today.getHours();
             var greeting;
@@ -171,41 +176,42 @@ HTML page. The greeting changes depending on the time of day
 There is two ways to to write our javascript scripts :
 1. External :
 * Example:
-            <!DOCTYPE html>
-            <html>
-            <head>
-            <title>Constructive &amp; Co.</ title>
-            <link rel ="stylesheet" href="css/ cOl.css" />
-            </ head>
-            <body>
-            <hl>Constructive &amp ; Co. </ hl>
-            <script src="js/ add-content.js"></ script>
-            <p>For all orders and i nquiries please cal l
-            <em>SSS-3344</ em></ p>
-            </ body>
-            </html>
+            ```<!DOCTYPE html>```
+            ```<html>```
+            ```<head>```
+            ```<title>Constructive &amp; Co.</ title>```
+            ```<link rel ="stylesheet" href="css/ cOl.css" />```
+            ```</ head>```
+            ```<body>```
+            ```<hl>Constructive &amp ; Co. </ hl>```
+            ```<script src="js/ add-content.js"></ script>```
+            ```<p>For all orders and i nquiries please cal l```
+            ``` <em>SSS-3344</ em></ p>```
+            ```</ body>```
+            ```</html>```
 
 2. Internal ,We can Write the JavaScript script inside the html file using script tag :
 * Example:
-            <!DOCTYPE html >
-            <html >
-            <head>
-            <title>Constructive &amp; Co.</title>
-            <li nk rel ="stylesheet" href="css/ cOl . css" / >
-            </ head>
-            <body>
-            <hl>Constructive &amp; Co.</hl>
-            <script>document.write(' <h3>Welcome !</h3>');
-            </script>
-            <p>For all orders and inquiries please call
-            <em>555-3344</ em></ p>
-            </ body>
-            </ html >
+            ```<!DOCTYPE html >```
+            ```<html >```
+            ```<head>```
+            ```<title>Constructive &amp; Co.</title>```
+            ```<li nk rel ="stylesheet" href="css/ cOl . css" / >```
+            ```</ head>```
+            ```<body>```
+            ```<hl>Constructive &amp; Co.</hl>```
+            ```<script>document.write(' <h3>Welcome !</h3>');``
+            ```</script>```
+            ```<p>For all orders and inquiries please call```
+            ```<em>555-3344</ em></ p>```
+            ```</ body>```
+            ```</ html >```
 
 Programming Statement: A script is a series of instructions that a computer can follow one-by-one.
 Each individual instruction or step
 
 * Example:
+
             var today= new Date{);
             var hourNow = today.getHours{) ;
             var greeting;
@@ -250,15 +256,19 @@ Example:
 
  # Loops:
 We use loops to iterate specific statements as many as I want .
+
 Example:
+
                 var j = 0;
                 for(var i =0; i<7; i++)
                 {
                     j++;
                 }
+
  here it will iterate 7 times 
 
 we can do it using another loop statement:
+
 Example:
 
                 var j = 0;
@@ -269,4 +279,5 @@ Example:
 
                     i++;
                 }
+                
 it will do the same exactly
