@@ -21,7 +21,7 @@ and my dream is to become a great programmer someday .** "
 
 ### Table of contents:
 1. [class-01](https://qusay114.github.io/reading-notes/class-01)
-2. Assigment 2
+2. [class-02](https://qusay114.github.io/reading-notes/class-02)
 3. Assigment 3
 4. Assigment 4
 5. Assigment 5
