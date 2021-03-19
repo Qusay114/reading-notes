@@ -33,7 +33,7 @@ contents of a web page while it is in the browser window.
 
 The HTML DOM model is constructed as a tree of Objects:
 
-picture. 
+![Doom Tree](https://www.w3schools.com/js/pic_htmltree.gif)
 
 * Finding HTML Elements
 When you want to access HTML elements with JavaScript, you have to find the elements first.
@@ -67,7 +67,7 @@ There are a couple of ways to do this:
 		If you want to find all HTML elements that matches a specified CSS selector (id, class names, types, attributes, values of attributes, etc), use the querySelectorAll() method.
 
 		This example returns a list of all p elements with class="intro".
-        
+
 			let x = document.querySelectorAll("p.intro");
 
 
