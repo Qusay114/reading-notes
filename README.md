@@ -22,11 +22,11 @@ and my dream is to become a great programmer someday .** "
 ### Table of contents:
 1. [class-01](https://qusay114.github.io/reading-notes/class-01)
 2. [class-02](https://qusay114.github.io/reading-notes/class-02)
-3. Assigment 3
+3. [class-03](https://qusay114.github.io/reading-notes/class-03)
 4. [class-04](https://qusay114.github.io/reading-notes/class-04)
 5. [class-05](https://qusay114.github.io/reading-notes/class-05)
 6. [class-06](https://qusay114.github.io/reading-notes/class-06)
-7. Assigment 7
+7. [class-07](https://qusay114.github.io/reading-notes/class-07)
 8. Assigment 8
 9. Assigment 9
 10. Assigment 10
