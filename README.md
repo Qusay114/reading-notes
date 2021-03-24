@@ -29,7 +29,7 @@ and my dream is to become a great programmer someday .** "
 7. [class-07](https://qusay114.github.io/reading-notes/class-07)
 8. [class-08](https://qusay114.github.io/reading-notes/class-08)
 9. [class-09](https://qusay114.github.io/reading-notes/class-09)
-10. Assigment 10
+10. [class-10](https://qusay114.github.io/reading-notes/class-10)
 11. Assigment 11
 12. Assigment 12
 13. Assigment 13
