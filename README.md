@@ -31,7 +31,7 @@ and my dream is to become a great programmer someday .** "
 9. [class-09](https://qusay114.github.io/reading-notes/class-09)
 10. [class-10](https://qusay114.github.io/reading-notes/class-10)
 11. [class-11](https://qusay114.github.io/reading-notes/class-11)
-12. Assigment 12
+12. [class-12](https://qusay114.github.io/reading-notes/class-12)
 13. Assigment 13
 14. Assigment 14
 15. Assigment 15
