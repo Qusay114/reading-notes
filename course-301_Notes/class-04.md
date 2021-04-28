@@ -11,7 +11,7 @@ HTML form elements work a little bit differently from other DOM elements in Reac
         </form>
 
 
-## Controlled Components :
+### Controlled Components :
 
 It's a technique we used in react to create forms and update the input data , which in React mutable state is typically kept in the state property of components, and only updated with setState() .
 
