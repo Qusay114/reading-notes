@@ -26,3 +26,7 @@ Steps on how it works :
 # OpenId: 
 
 OpenID is an open standard and decentralized authentication protocol. Promoted by the non-profit OpenID Foundation, it allows users to be authenticated by co-operating sites (known as relying parties, or RP) using a third-party service, eliminating the need for webmasters to provide their own ad hoc login systems, and allowing users to log into multiple unrelated websites without having to have a separate identity and password for each.[1] Users create accounts by selecting an OpenID identity provider[1] and then use those accounts to sign onto any website that accepts OpenID authentication. Several large organizations either issue or accept OpenIDs on their websites, according to the OpenID Foundation.(wikipedia definition of openID)
+
+
+<br><br><br><br><br><br>
+## Things I want to know more about :
