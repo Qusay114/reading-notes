@@ -54,6 +54,7 @@ and my dream is to become a great programmer someday .** "
 8. [class-08](https://qusay114.github.io/reading-notes/course-301_Notes/class-08)
 9. [class-09](https://qusay114.github.io/reading-notes/course-301_Notes/class-09)
 10. [class-10](https://qusay114.github.io/reading-notes/course-301_Notes/class-10)
+11. [class-11](https://qusay114.github.io/reading-notes/course-301_Notes/class-11)
 
 
 
