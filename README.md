@@ -7,7 +7,7 @@ and my dream is to become a great programmer someday .** "
 
 
 
-# Course 102 Reading Notes
+# Code 102 - Intro to Software Development
 
 ### Table of contents:
 1. [version control system](https://qusay114.github.io/reading-notes/VCS)
@@ -21,7 +21,7 @@ and my dream is to become a great programmer someday .** "
 9. [CSS summary 1](https://qusay114.github.io/reading-notes/CSS_Summary1)
 
 
-# Course 201 Reading Notes
+# Code 201 - Foundations of Software Development
 
 ### Table of contents:
 1. [class-01](https://qusay114.github.io/reading-notes/class-01)
@@ -41,7 +41,7 @@ and my dream is to become a great programmer someday .** "
 15. [class-15](https://qusay114.github.io/reading-notes/class-15)
 
 
-# Course 301 Reading Notes
+# Code 301 - Intermediate Software Development
 
 ### Table of contents:
 1. [class-01](https://qusay114.github.io/reading-notes/course-301_Notes/class-01)
@@ -61,7 +61,7 @@ and my dream is to become a great programmer someday .** "
 
 
 
-# Course 401 Reading Notes
+# Code 401 - Advanced Software Development
 
 ### Table of contents:
 1. [class-01](https://qusay114.github.io/reading-notes/course-401_Notes/class-01)
