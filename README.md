@@ -65,7 +65,7 @@ and my dream is to become a great programmer someday .** "
 
 ### Table of contents:
 1. [class-01](https://qusay114.github.io/reading-notes/course-401_Notes/class-01)
- 
+2. [class-02](https://qusay114.github.io/reading-notes/course-401_Notes/class-02)
 
 
 <br><br><br><br><br><br>
