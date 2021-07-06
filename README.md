@@ -70,6 +70,7 @@ and my dream is to become a great programmer someday .** "
 4. [class-04](https://qusay114.github.io/reading-notes/course-401_Notes/class-04)
 6. [class-06](https://qusay114.github.io/reading-notes/course-401_Notes/class-06)
 8. [class-08](https://qusay114.github.io/reading-notes/course-401_Notes/class-08)
+9. [class-09](https://qusay114.github.io/reading-notes/course-401_Notes/class-09)
 
 
 <br><br><br><br><br><br>
