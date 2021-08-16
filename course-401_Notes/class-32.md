@@ -25,6 +25,7 @@ The GraphQL Transform provides a simple to use abstraction that helps you quickl
 
 Example : 
 
+
         type Blog @model {
           id: ID!
           name: String!
