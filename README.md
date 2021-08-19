@@ -86,6 +86,8 @@ and my dream is to become a great programmer someday .** "
 32. [class-32](https://qusay114.github.io/reading-notes/course-401_Notes/class-32)  
 33. [class-33](https://qusay114.github.io/reading-notes/course-401_Notes/class-33)  
 34. [class-34](https://qusay114.github.io/reading-notes/course-401_Notes/class-34) 
+35. [class-35](https://qusay114.github.io/reading-notes/course-401_Notes/class-35)
+
 
 <br><br><br><br><br><br>
 ## Things I want to know more about :
